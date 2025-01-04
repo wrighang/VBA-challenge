@@ -55,7 +55,6 @@ All three of the following are uploaded to GitHub/GitLab:
 - README file
 
 ==========================================================================================
-
 ## CODING_PROCESS
 
 Reset Button- Andrew Lane provided this code in a study group we had with several classmates over the weekend and I used it after I had completed the assignment as it was very helpful to reset using a macro versus manually deleting the results
