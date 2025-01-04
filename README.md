@@ -7,7 +7,6 @@
 4. [EXTRA - xlsm file](https://github.com/wrighang/02_VBA-challenge/blob/main/Multiple_year_stock_data_Angelina.xlsm)
 
 ## Instructions
-
 Create a script that loops through all the stocks for each quarter and outputs the following information:
 
 - The ticker symbol
@@ -20,35 +19,35 @@ Create a script that loops through all the stocks for each quarter and outputs t
 
 ## Requirements
 
-## Retrieval of Data
+### Retrieval of Data
 The script loops through one quarter of stock data and reads/stores all of the following values from each row:
 - Ticker symbol
 - Volume of stock
 - Open price
 - Close price
 
-## Column Creation
+### Column Creation
 On the same worksheet as the raw data, or on a new worksheet, all columns were correctly created for:
 - Ticker symbol
 - Total stock volume
 - Quarterly change ($)
 - Percent change
 
-## Conditional Formatting
+### Conditional Formatting
 Conditional formatting is applied correctly and appropriately to:
 - Quarterly change column
 - Percent change column
 
-## Calculated Values
+### Calculated Values
 All three of the following values are calculated correctly and displayed in the output:
 - Greatest % Increase
 - Greatest % Decrease
 - Greatest Total Volume
 
-## Looping Across Worksheet
+### Looping Across Worksheet
 The VBA script can run on all sheets successfully.
 
-## GitHub/GitLab Submission
+### GitHub/GitLab Submission
 All three of the following are uploaded to GitHub/GitLab:
 - Screenshots of the results
 - Separate VBA script files
