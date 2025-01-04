@@ -1,4 +1,10 @@
-# VBA-challenge
+# 02_VBA-challenge
+
+# Deliverable(s)
+1. [Screenshots of the results](https://github.com/wrighang/02_VBA-challenge/tree/main/results%20images)
+2. [Separate VBA script files](https://github.com/wrighang/02_VBA-challenge/tree/main/vba%20script%20files)
+3. [README file](https://github.com/wrighang/02_VBA-challenge/blob/main/README.md)
+4. [EXTRA - xlsm file](https://github.com/wrighang/02_VBA-challenge/blob/main/Multiple_year_stock_data_Angelina.xlsm)
 
 ## Instructions
 
@@ -47,13 +53,10 @@ All three of the following are uploaded to GitHub/GitLab:
 - Screenshots of the results
 - Separate VBA script files
 - README file
--------------------------------------------------
 
-Included in repository: 
-1. Screenshots of the results 
-2. Separate VBA script files
-3. README file
-4. EXTRA - xlsm file
+==========================================================================================
+
+## CODING_PROCESS
 
 Reset Button- Andrew Lane provided this code in a study group we had with several classmates over the weekend and I used it after I had completed the assignment as it was very helpful to reset using a macro versus manually deleting the results
 
